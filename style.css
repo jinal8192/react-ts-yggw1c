@@ -6,14 +6,17 @@
   font-family: sans-serif;
   border: 1px solid darkgrey;
 }
+
 .card__title {
   padding-left: 10px;
   flex: 0 0 30%;
 }
+
 .card__text {
   padding-left: 10px;
   flex: 0 0 30%;
 }
+
 .card__link {
   padding-left: 10px;
 }
@@ -22,11 +25,7 @@
   background-color: #0077ff;
   color: #e0efff;
 }
+
 .card__link--red {
   color: red;
-}
-
-h1,
-p {
-  font-family: Lato;
 }
